@@ -1,12 +1,5 @@
-## Hi there 👋
+## open-mcp: open source motion control photography
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🙋‍♀️ open-mcp is a set of tools that allow you to do motion control photography
+🌈 contributions, feedbacks, ideas and issues are welcome
+👩‍💻 feel free to reach out at open-mcp@0xb.ch
